@@ -1,0 +1,18 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "cid-20",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rudda beltrao",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "csv-parser": "^3.0.0",
+    "node-libcurl": "^2.3.0",
+    "rxjs": "^6.6.6",
+    "selenium-webdriver": "^4.0.0-beta.1"
+  }
+}
