@@ -1,5 +1,0 @@
-; https://www.ifood.com.br/delivery/rio-de-janeiro-rj/burguer-express-centro/9529f4f3-8f47-4ff7-a401-991f6af1c5a0 ; 34805436000170 ; 59
-; https://www.ifood.com.br/delivery/rio-de-janeiro-rj/casa-do-hot-filadelfia-centro/95c8851f-0b49-4810-a87a-fb7f02f548c2 ; 35764468000137 ; 12
-; https://www.ifood.com.br/delivery/rio-de-janeiro-rj/espetto-carioca---catete-catete/3fe4ba19-3d55-4c0f-8fe6-8904aa917a31 ; 36190367000162 ; 25
-; https://www.ifood.com.br/delivery/rio-de-janeiro-rj/panela-de-barro-jacare/92d941ef-f82f-4c62-993b-1c43fbd6c775 ; 34906035000106 ; 51
-; https://www.ifood.com.br/delivery/rio-de-janeiro-rj/nevada-bar-tijuca/ac3b5cf1-8d51-4938-bd79-0d9a0663a47b ; 29273085000163 ; 25
